@@ -4,7 +4,7 @@
 #include <locale>;
 using namespace std;
 class Observer
-{
+{fdfdfdf
 public:
     virtual void update(int a){};
 };
